@@ -1,8 +1,8 @@
-## CodiNauts-WK
+## CodiNauts
 Using   HTML, CSS, JS & BootStrap  (YouTube Based Project)
 
-## CodiNauts-WK Completion Date
+## CodiNauts Completion Date
 10-May-2020
 
-## CodiNauts-WK URL
+## CodiNauts URL
 http://codinauts-wk-bw.surge.sh/
